@@ -1,0 +1,8 @@
+{
+  "home": "Home",
+  "about": "About",
+  "settings": "Settings",
+  "error": "Failed to load data",
+  "loading": "Loading...",
+  "fetch_error": "Failed to load data"
+}
